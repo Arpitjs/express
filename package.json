@@ -1,0 +1,23 @@
+{
+  "name": "express3mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app1.js",
+  "scripts": {
+    "start": "nodemon app1.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "jsonwebtoken": "^8.5.1",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.6.8",
+    "multer": "^1.4.2",
+    "nodemailer": "^6.3.0",
+    "password-hash": "^1.2.2",
+    "randomstring": "^1.1.5",
+    "socket.io": "^2.2.0",
+    "unirest": "^0.6.0"
+  }
+}
